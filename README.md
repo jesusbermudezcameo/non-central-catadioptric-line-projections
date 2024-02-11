@@ -16,7 +16,7 @@ For further details, please check [Fitting line projections in non-central catad
 
 This software is under GNU General Public License Version 3 (GPLv3), please see [GNU License](http://www.gnu.org/licenses/gpl.html)
 
-For commercial purposes, please contact the authors: Jesús Bermudez-Cameo (bermudez@unizar.es), Bruno Berenguel-Baeta (berenguel@unizar.es) and Josechu Guerrero (josechu.guerrero@unizar.es)
+For commercial purposes, please contact the authors: Jesús Bermudez-Cameo (bermudez@unizar.es), Gonzalo López-Nicolás (gonlopez@unizar.es) and Josechu Guerrero (josechu.guerrero@unizar.es)
 
 
 ## Disclaimer
